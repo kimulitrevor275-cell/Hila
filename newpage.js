@@ -18,7 +18,7 @@ contentSection.innerHTML = `
       
     
       <b id="label">JUST-IN </b><h3>Zayn Malik has released his long-waited album 'KONNAKOL' </h3>
-        <img src="pics/12.png" alt="photo">
+        <img src="https://res.cloudinary.com/dvxl03ips/image/upload/v1776955966/blackpink-go_reewuf.jpg" alt="photo">
       
   <div id="dlinks">
     <a id="a" href="https://music.youtube.com/channel/UC3PdiRW5dUA4V70ueeR1eHA?si=gDg6NAiKqN82NUyV" target="_blank">
