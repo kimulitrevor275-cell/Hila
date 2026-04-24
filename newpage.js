@@ -2,7 +2,7 @@ const posts = [
   {
     label: "JUST-IN",
     headline: "Zayn Malik has released his long-waited album 'KONNAKOL'",
-    img: "https://res.cloudinary.com/dvxl03ips/image/upload/pics_12.png",
+    img: "https://res.cloudinary.com/dvxl03ips/image/upload/pics_31.jpg",
     readLink: "https://music.youtube.com/channel/UC3PdiRW5dUA4V70ueeR1eHA?si=gDg6NAiKqN82NUyV",
     readText: "Stream now",
     time: ""
